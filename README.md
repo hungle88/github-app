@@ -1,5 +1,5 @@
 ## GitHub App
-## React Native Appication
+## React Native Application
 This app is to search and display information about GitHub profiles.
 The application boots a Stack Navigation with the following screens:
 * Search (main page, users will search for a certain GitHub account)
